@@ -34,9 +34,9 @@ For example, in the case of Multinomial Naive Bayes with tf-idf, the precision f
 whereas the recall score for some sentiments has improved, and worsened. F1 scores also seem to have mixed results. 
 
 ### Credits 
-Shawn Gorman 
-Rayan Abou 
-Dr. Leila Kosseim 
+- Shawn Gorman 
+- Rayan Abou 
+- Dr. Leila Kosseim 
 
 
 
